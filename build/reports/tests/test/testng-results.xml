@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="13711" started-at="2019-05-07T11:57:01Z" finished-at="2019-05-07T11:57:14Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="13711" started-at="2019-05-07T11:57:01Z" finished-at="2019-05-07T11:57:14Z">
+      <class name="AndroidTests">
+        <test-method status="PASS" signature="setupAppium()[pri:0, instance:AndroidTests@4795b075]" name="setupAppium" is-config="true" duration-ms="9610" started-at="2019-05-07T11:56:51Z" finished-at="2019-05-07T11:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAppium -->
+        <test-method status="PASS" signature="checkSendKeysWorks()[pri:0, instance:AndroidTests@4795b075]" name="checkSendKeysWorks" duration-ms="13465" started-at="2019-05-07T11:57:01Z" finished-at="2019-05-07T11:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSendKeysWorks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AndroidTests@4795b075]" name="tearDown" is-config="true" duration-ms="228" started-at="2019-05-07T11:57:14Z" finished-at="2019-05-07T11:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="uninstallApp()[pri:0, instance:AndroidTests@4795b075]" name="uninstallApp" is-config="true" duration-ms="206" started-at="2019-05-07T11:57:15Z" finished-at="2019-05-07T11:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uninstallApp -->
+      </class> <!-- AndroidTests -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>
